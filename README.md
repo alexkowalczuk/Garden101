@@ -10,4 +10,6 @@ Prototype (adobe XD): https://xd.adobe.com/view/7cce533f-c684-4393-aba5-02f7ba7b
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw(). Also modified index.html to add buttom functions. Added buttoms to the sketch to the slides and interaction w keyboard. Did custom made png(s). 
+Modify the sketch.js setup() and draw(). 
+Also modified index.html to add buttom functions. 
+Added p5.clickable.js to be able to introduce clickable items/buttoms to my 101 Gardening. Project also have interaction with keyboard that helps to file small quiz in the beggingin of the project. Project have custom png(s) files and custom positions. Unfortunately project doest make sounds.
