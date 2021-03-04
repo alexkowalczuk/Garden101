@@ -1,8 +1,14 @@
 /***********************************************************************************
-  Project 1: Gardening 101
+  Project 1: Gardening 101 (not my best project...)
   by Alex Kowalczuk
 
   Take tour around garden and learn something (VARY BASIC) information about planting.
+  This app is created to be very easy and intuitive for anyone in any age. Design is simple and clean.
+  Buttons are big enough so everyone can see it with no problems.
+  App shoulg learn very first idea of gardening and plkanting two specific plants.
+  I added more functionality to this project and learned a lot about buttoms in JS
+  Unfortunetly this project doest use timers.
+  
 ***********************************************************************************/
 
 // Array of images
@@ -22,7 +28,7 @@ var strawberryButton;
 var tomatoButton;
 var endButton;
 
-// Room images
+// Images - png(s)
 function preload() {
   images[0] = loadImage('assets/start.png');
   images[1] = loadImage('assets/Question-1.png');
